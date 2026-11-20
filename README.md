@@ -1,8 +1,8 @@
 # Chronicles of the Fallen Empires — Beta Downloads
 
-[**Download Android Beta.5 APK (262 MB)**](https://github.com/abibdesu-byte/chronicles-beta-downloads/releases/download/beta.5/chronicles-closed-beta.apk)
+[**Download Android Beta.6 APK (262 MB)**](https://github.com/abibdesu-byte/chronicles-beta-downloads/releases/download/beta.6/chronicles-closed-beta.apk)
 
-[Release notes and installation details](https://github.com/abibdesu-byte/chronicles-beta-downloads/releases/tag/beta.5)
+[Release notes and installation details](https://github.com/abibdesu-byte/chronicles-beta-downloads/releases/tag/beta.6)
 
 1. Download the APK on your Android device.
 2. Open it and allow installation from your browser/file manager if Android asks.
@@ -11,8 +11,10 @@
 
 Armor, weapon and wings can be mixed independently. This is a beta build; device performance and touch usability are still being tested.
 
-Version: **0.1.0-beta.5**, Android 7.0 or later.
+Version: **0.1.0-beta.6**, Android 7.0 or later.
 
-SHA256: `f19a28aa21685bb77aafb418c471ea2e7d56c0b11d79a5e29c4e3f1ebadf5028`
+SHA256: `4fe71e44138ac6edfc89c66b98e0e0523b00b77530e4f7618926e9e9220a0f0e`
 
 This repository distributes beta downloads only.
+
+Install over beta.5 without uninstalling. If your tablet keyboard duplicates letters, use **Keys** beside the login fields. See the release notes for the mobile/HUD fixes and remaining device checks.
